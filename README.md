@@ -28,10 +28,3 @@ Professor José de Assis
 <a href="https://instagram.com/prof.joseassis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prof.joseassis" height="30" width="40" /></a>
 <a href="https://twitter.com/joseassis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseassis" height="30" width="40" /></a>
 </p>
-
-### Você também pode me pagar um café! ☕
-
-### Chave PIX:
-` josedeassisfilho@gmail.com `
-
-### :smiley: Muito obrigado pelo apoio!
